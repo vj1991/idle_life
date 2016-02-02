@@ -1,0 +1,7 @@
+echo "# idle_life" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/vj1991/idle_life.git
+git push -u origin master
+
